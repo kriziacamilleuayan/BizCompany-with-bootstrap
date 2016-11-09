@@ -11,6 +11,7 @@
 	margin-bottom: none;
 	width: 100%;
 	border-radius: 0px;
+ 	box-shadow: inset 1px 10px 10px rgba(255, 255, 255, 0.25), 0 1px 0 rgba(255, 255, 255, 0.24);
 }
 
 .navbar-default .navbar-nav>li>a{
@@ -70,6 +71,7 @@
  	background-color: #0981db;
  	border: none;
  	margin-top: 2px;
+	box-shadow: inset 1px 1px 10px rgba(0, 0, 0, 0.31), 0 1px 0 rgba(255, 255, 255, 0.43);
  }
 
  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
